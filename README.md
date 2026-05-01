@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Brayan Andres Castro Marquez 
+<h1>¡Hola! Soy Brayan Andres Castro Marquez <img src="./a5.gif" width="100px">
 </h1>
 
 <img src="./a3.gif" width="100%" alt="banner gif" />
@@ -11,16 +11,6 @@
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día
 - Me especializo en la pila MERN y Java, aplicando principios de diseño UI/UX para crear aplicaciones web modernas.
 - Actualmente, trabajo como Desarrollador Full Stack Junior en CdaPractimoto, donde lidero el desarrollo de sistemas integrados de contabilidad y gestión.
-
-<h1>Hello! I'm Brayan Andres Castro Marquez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-<h2>software engineer</h2>
-
-### About Me
-- I am 34 years old and I am from Bucaramanga, Santander, Colombia.
-- I am a Software Engineer focused on Full Stack development.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I specialize in the MERN stack and Java, applying UI/UX design principles to create modern web applications.  
-- Currently, I am working as a Junior Full Stack Developer at CdaPractimoto, where I lead the development of integrated accounting and management systems.
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
