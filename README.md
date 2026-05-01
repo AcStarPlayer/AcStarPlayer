@@ -1,4 +1,4 @@
-<h1>¡Hola! Soy Brayan Andres Castro Marquez <img src="./a5.gif" width="100px">
+<h1> <img src="./a5.gif" width="100px"> ¡Hola! Soy Brayan Andres Castro Marquez 
 </h1>
 
 <img src="./a3.gif" width="100%" alt="banner gif" />
