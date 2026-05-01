@@ -3,16 +3,11 @@
 
 <img src="./a3.gif" width="100%" alt="banner gif" />
 
-<h2>Ingeniero de software</h2>
-
-### Acerca de mi
-- Tengo 34 años soy de Bucaramanga, Santander, Colombia.  
-- Soy Ingeniero de Software.  
-- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día
-- Me especializo en la pila MERN y Java, aplicando principios de diseño UI/UX para crear aplicaciones web modernas.
-- Actualmente, trabajo como Desarrollador Full Stack Junior en CdaPractimoto, donde lidero el desarrollo de sistemas integrados de contabilidad y gestión.
-
-
+Soy Desarrollador Full Stack con formación en Ingeniería de Software, Desarrollador de VideoJuegos con experiencia en la creación de aplicaciones web modernas, plataformas e-commerce y sistemas contables. 
+</br>
+Especializado en el stack MERN y el lenguaje Java, aplicando buenas prácticas de desarrollo, consumo de APIs REST y diseño orientado a UI/UX. 
+</br>
+Profesional disciplinado y con alta capacidad de adaptación tecnológica, en busca de un rol Junior para aportar soluciones eficientes en equipos colaborativos.
 
 
 ### Contacto
