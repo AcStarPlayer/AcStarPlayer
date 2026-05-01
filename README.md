@@ -3,11 +3,14 @@
 
 <img src="./a3.gif" width="100%" alt="banner gif" />
 
+</br>
 Soy Desarrollador Full Stack con formación en Ingeniería de Software, Desarrollador de VideoJuegos con experiencia en la creación de aplicaciones web modernas, plataformas e-commerce y sistemas contables. 
+</br>
 </br>
 Especializado en el stack MERN y el lenguaje Java, aplicando buenas prácticas de desarrollo, consumo de APIs REST y diseño orientado a UI/UX. 
 </br>
-Profesional disciplinado y con alta capacidad de adaptación tecnológica, en busca de un rol Junior para aportar soluciones eficientes en equipos colaborativos.
+</br>
+Profesional disciplinado y con alta capacidad de adaptación tecnológica, en busca de rol como Ingeniero de Software para aportar soluciones eficientes en equipos colaborativos.
 
 
 ### Contacto
