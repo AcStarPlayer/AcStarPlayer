@@ -30,12 +30,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/bandresdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<br/>
-<a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
-<br/>
-<a href="bandres.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-<br/>
+
 
 //////////////////////////////////
 
