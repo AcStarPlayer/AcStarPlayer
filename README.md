@@ -15,7 +15,7 @@
 
 
 
-### Contact Me
+### Contacto
 <br clear="both">
 
 <div align="left">
@@ -25,6 +25,10 @@
 
   <a href="mailto:bandres.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+
+  <a href="https://acstarplayer.github.io/Brayan-Castro-portafolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=gitlab&label=GITHUB&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gitlab logo"  />
   </a>
 </div>
 
