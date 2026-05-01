@@ -1,4 +1,8 @@
-<h1>¡Hola! Soy Brayan Andres Castro Marquez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1>¡Hola! Soy Brayan Andres Castro Marquez 
+</h1>
+
+<img src="./a3.gif" width="100%" alt="banner gif" />
+
 <h2>Ingeniero de software</h2>
 
 ### Acerca de mi
