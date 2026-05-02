@@ -13,7 +13,8 @@ Especializado en el stack MERN y el lenguaje Java, aplicando buenas prácticas d
 Profesional disciplinado y con alta capacidad de adaptación tecnológica, en busca de rol como Ingeniero de Software para aportar soluciones eficientes en equipos colaborativos.
 
 
-### Contacto
+### Encuéntrame en:
+
 <br clear="both">
 
 <div align="left">
