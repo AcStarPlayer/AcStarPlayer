@@ -35,7 +35,7 @@ Profesional disciplinado y con alta capacidad de adaptación tecnológica, en bu
   </a>
 </div>
 
-### Technologies
+### Tecnologias
 <br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -134,5 +134,3 @@ Profesional disciplinado y con alta capacidad de adaptación tecnológica, en bu
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
-
-###
